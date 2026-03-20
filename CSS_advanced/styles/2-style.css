@@ -1,0 +1,29 @@
+/* Generic HTML element */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Body */
+body {
+  color: #161616;
+}
+
+/* Anchor elements */
+a {
+  color: #161616;
+}
+
+/* Visually hidden */
+.visually-hidden {
+  display: none;
+}
+
+/* Card category */
+.card-category {
+  color: #D73953;
+}
+
+/* Section tagline */
+.section-tagline {
+  color: #D73953;
+}
